@@ -84,7 +84,7 @@
       </div>
 
       <!-- Portfolio Grid Items -->
-      <div class="row">
+      
 
          <!-- Portfolio Item 1 -->
         <div class="col-md-6 col-lg-4">
