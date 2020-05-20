@@ -87,7 +87,7 @@
       
 
          <!-- Portfolio Item 1 -->
-        <div class="col-xs-6 col-md-6 col-lg-4">
+        <div class=" col-md-4 col-lg-4">
           <div  data-toggle="modal" data-target="#portfolioModal1">
             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
               <div class="portfolio-item-caption-content text-center text-white">
@@ -99,7 +99,7 @@
         </div>
 
         <!-- Portfolio Item 2 -->
-<div class="col-xs-6 col-md-6 col-lg-4">
+<div class="col-xs-6 col-md-4 col-lg-4">
           <div  data-toggle="modal" data-target="#portfolioModal2">
             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
               <div class="portfolio-item-caption-content text-center text-white">
@@ -111,7 +111,7 @@
         </div>
 
         <!-- Portfolio Item 3 -->
-<div class="col-xs-6 col-md-6 col-lg-4">
+<div class="col-xs-6 col-md-4 col-lg-4">
           <div  data-toggle="modal" data-target="#portfolioModal3">
             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
               <div class="portfolio-item-caption-content text-center text-white">
@@ -123,7 +123,7 @@
         </div>
 
         <!-- Portfolio Item 4 -->
-        <div class="col-xs-6 col-md-6 col-lg-4">
+        <div class="col-xs-6 col-md-4 col-lg-4">
           <div  data-toggle="modal" data-target="#portfolioModal4">
             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
               <div class="portfolio-item-caption-content text-center text-white">
@@ -135,7 +135,7 @@
         </div>
 
         <!-- Portfolio Item 5 -->
-        <div class="col-xs-6 col-md-6 col-lg-4">
+        <div class="col-xs-6 col-md-4 col-lg-4">
           <div  data-toggle="modal" data-target="#portfolioModal5">
             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
               <div class="portfolio-item-caption-content text-center text-white">
@@ -147,7 +147,7 @@
         </div>
 
         <!-- Portfolio Item 6 -->
-      <div class="col-xs-6 col-md-6 col-lg-4">
+      <div class="col-xs-6 col-md-4 col-lg-4">
           <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal2">
             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
               <div class="portfolio-item-caption-content text-center text-white">
